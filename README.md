@@ -99,4 +99,5 @@ The code and documentation included in this project is primarily vibeslop. The h
 
 ## License
 
-Spiffy Roller Set Maker is released into the public domain under The Unlicense.
+Spiffy Roller Set Maker is released into the public domain under [The Unlicense](LICENSE).    
+Copyleft 2026. Do what thou wilt shall be the whole of the law. One step closer to AGI.
